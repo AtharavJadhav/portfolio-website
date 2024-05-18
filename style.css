@@ -313,6 +313,10 @@
       margin: auto;
     }
 
+    .text-container {
+      text-align: justify;
+    }
+
     /*SKILLS SECTION*/
 
     #skills {
